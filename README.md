@@ -10,7 +10,7 @@
 <strong>Coder 1:</strong> Tony (tony.l@bronxsoftware.org) || <strong>GitHub:</strong> https://github.com/techdude23 <br />
 <strong>Coder 2:</strong> Mathew (mathew.r@bronxsoftware.org) || <strong>GitHub:</strong> https://github.com/Mathew-R <br />
 <strong>Coder 3:</strong> Lucero (lucero.t@bonxsoftware.org) || <strong>GitHub:</strong> https://github.com/lucero183 <br />
-<strong>Coder 4:</strong> Takhim (md.haque@bronxsoftware.org) || <strong>GitHub:</strong> https://github.com/anontakhim
+<strong>Coder 4:</strong> Takhim (md.haque@bronxsoftware.org) || <strong>GitHub:</strong> https://github.com/anontakhim <br />
 <strong?Coder 5:</strong> Myasia (myasia.r@bronxsoftware.org) || <strong>GitHub:</strong> https://github.com/myasiar
 
 takhim12

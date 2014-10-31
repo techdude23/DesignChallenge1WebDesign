@@ -3,11 +3,11 @@
 <strong>Department:</strong> 9th grade Global History<br />
 <strong>Teacher:</strong> Brooke - brooke@bronxsoftware.org<br /> <br />
 
-<h4>Roles</h4><br />
-Project Manager: Tony (tony.l@bronxsoftware.org) https://www.github.com/techdude23 <br />
-Writer: Takhim (md.haque@bronxsoftware.org) https://github.com/anontakhim <br />
-Presenter: Myasia (myasia.r@bronxsoftware.org) https://github.com/myasiar <br />
-Coder 1: Tony (tony.l@bronxsoftware.org) https://www.github.com/techdude23 <br />
-Coder 2: Mathew (mathew.r@bronxsoftware.org) https://github.com/Mathew-R
+<h4>Roles</h4>
+<strong>Project Manager:</strong> Tony (tony.l@bronxsoftware.org) https://www.github.com/techdude23 <br />
+<strong>Writer:</strong> Takhim (md.haque@bronxsoftware.org) https://github.com/anontakhim <br />
+<strong>Presenter:</strong> Myasia (myasia.r@bronxsoftware.org) https://github.com/myasiar <br />
+<strong>Coder 1:</strong> Tony (tony.l@bronxsoftware.org) https://www.github.com/techdude23 <br />
+<strong>Coder 2:</strong> Mathew (mathew.r@bronxsoftware.org) https://github.com/Mathew-R
 
 takhim12

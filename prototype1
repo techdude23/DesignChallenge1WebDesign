@@ -1,4 +1,10 @@
-<!DOCTYPE html>
+<!--
+  This page is for the first prototype of the site.
+  This should ONLY contain HTML elements and text.
+  Prototype 2 will consist of HTML and CSS elements.
+  ~ Tony
+-->
+!DOCTYPE html>
 <html lang="en">
 
 <header>

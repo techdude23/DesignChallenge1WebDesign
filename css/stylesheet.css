@@ -1,3 +1,20 @@
-.navbar {
+#site {
+  background-color: white;
+  width: 800px;
+}
 
+#logo {
+  float: left;
+}
+
+#title {
+  float: right;
+}
+
+#main {
+  
+}
+
+#navbar {
+  background-color: green;
 }

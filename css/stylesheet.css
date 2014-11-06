@@ -1,12 +1,12 @@
 html {
-    background-color: #EEE;
+	background-color: #EEE;
 }
 
 #site {
 	background-color: white;
 	width: 800px;
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
@@ -24,8 +24,9 @@ html {
 }*/
 
 #header {
-    background-color: #147626;
-    text-align: center;
+  background-color: #147626;
+  text-align: center;
+  text-color: white;
 }
 
 #main {

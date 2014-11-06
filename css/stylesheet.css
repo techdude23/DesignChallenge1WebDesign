@@ -3,37 +3,90 @@ html {
 }
 
 #site {
-	background-color: white;
-	width: 800px;
-  margin-left: auto;
-  margin-right: auto;
+    background-color: white;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
 }
-
-
-
-/*#logo {
-	float: left;
-    width: 200px;
-}*/
-
-
-
-/*#title {
-    float: right;
-	text-align: right;
-}*/
 
 #header {
   background-color: #147626;
-  text-align: center;
+  height: 70px;
+}
+
+#logo {
+    padding: 10px 0px 0px 50px;
+    float: left;
 }
 
 #title {
-	color: #95785B;
-	font-size: 150%;
-	font-family: 'India Flower', cursive;
+	color: #fff;
+	font-size: xx-large;
+	font-family: 'Indie Flower', cursive, Verdana;
+    float: right;
+    padding: 10px 150px 5px 0px;
 }
 
-#main {
+#navbar {
+    text-align: center;
+    color: #03a9f3;
+    padding-top: 10px;
+}
 
+    #navbar a:hover {
+        color: #036ff3;
+        font-size: 110%;
+    }
+
+    #navbar a {
+    text-decoration: none;
+    }
+
+    #navbar i {
+        color: black;
+    }
+
+#main {
+    padding: 10px 30px 10px 30px;
+}
+
+    #main h2 {
+        text-align: center;
+        font-family: Tahoma, Arial;
+        color: #06b714;
+    }
+
+    #main i {
+        color: #1775e8;
+    }
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    color: #03a9f3;
+}
+
+    li a {
+       text-decoration: none;
+       color: white;
+    }
+
+.current {
+    font-weight: bold;
+    color: #00638f;
+}
+
+h4 {
+    margin: 0;
+}
+
+#footer {
+    clear: both;
+    padding: 10px;
+    background-color: #999;
+    color: white;
+    text-align: left;
+    font-family: Verdana, Arial;
+    font-size: small;
+    height: 120px;
 }

@@ -26,7 +26,10 @@ html {
 #header {
   background-color: #147626;
   text-align: center;
-  text-color: white;
+}
+
+#title, #navbar {
+	text-color: white;
 }
 
 #main {

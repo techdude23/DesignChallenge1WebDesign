@@ -1,20 +1,33 @@
+html {
+    background-color: #EEE;
+}
+
 #site {
-  background-color: white;
-  width: 800px;
+	background-color: white;
+	width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-#logo {
-  float: left;
-}
 
-#title {
-  float: right;
+
+/*#logo {
+	float: left;
+    width: 200px;
+}*/
+
+
+
+/*#title {
+    float: right;
+	text-align: right;
+}*/
+
+#header {
+    background-color: #147626;
+    text-align: center;
 }
 
 #main {
-  
-}
 
-#navbar {
-  background-color: green;
 }

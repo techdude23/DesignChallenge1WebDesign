@@ -99,12 +99,10 @@ h4 {
 p.important {
          float: right;
             color: #118ACC;
-margin-top: 130px;
 font-weight: bold;
-margin-right: 10px;
-    left: 50px;
-     position: relative;
-    z-index: 1;
+ position: absolute;
+    right: 300px;
+    bottom:10px; 
 }
 
 h4.wifi{
@@ -128,7 +126,7 @@ text-decoration: underline;
     #google_translate_element{
            
 float: right;
-margin-top: 10px;
+margin-top: 5px;
    
     }
 
@@ -226,5 +224,28 @@ caption,th {
 p.font{
     font-family: Comic Sans MS ;
 }
-/*Proximity effect ends 
-*/
+p.yahoo{
+
+position: absolute;
+    right: 300px;
+    bottom:50px; 
+    float: right;
+            color: #118ACC;
+font-weight: bold;
+}
+
+
+p.yahoo1{
+
+position: absolute;
+    right: 300px;
+    bottom:90px; 
+    float: right;
+            color: #118ACC;
+font-weight: bold;
+}
+
+a.email{
+    text-decoration: none;
+    color: #118ACC;
+}

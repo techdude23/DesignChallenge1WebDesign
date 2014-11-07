@@ -131,7 +131,7 @@ float: right;
 margin-top: 10px;
    
     }
-    
+
 /*Proximity effect starts 
 */.pe-thumbs{
     width: 900px;
@@ -223,5 +223,8 @@ caption,th {
     width: 100px;
 }
 
+p.font{
+    font-family: Comic Sans MS ;
+}
 /*Proximity effect ends 
 */
